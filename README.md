@@ -29,11 +29,11 @@
 
 ## Overview
 
-![screenshot]
 
 It wasn't a tough project, but making a decision on what type of tag to use was tough. Initially i started  up the project using div to divide both image and it works but the problem was i felt it wasn't the right syntax, and the name was not aligning on to the image so i change it. Here is a demo of the code:
 
- - [ <!--<div class="Photos">
+ - [ 
+    <!--<div class="Photos">
     <div class="Album_1">
         <img src="/images/photo1.png" alt="photo1">
         <span> PRODUCT OWNER</span>
