@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   font-family: Poppins, sans-serif;
+   display: flex;
+   flex-direction: column;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 600;
+}
+.text{
+    width: 20.5rem;
+    word-break: break-word;
+    text-align: left;
+    margin-top: 5rem;
+    line-height: 200%;
+}
+
+
+
+/*.Photos{
+
+}
+
+.Album_1, .Album_2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    width: 15%;
+    height: 15%;
+    padding:12px;
+    vertical-align:top;
+}
+span{
+    font-size: 10px;
+    writing-mode: vertical-rl;
+    margin-top:15px;
+}
+
+.p{
+  text-align: start;
+  padding: 12px;
+  font-weight: 500;
+}*/
+
+.Photos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    position: relative;
+}
+
+li {  
+    width: 20.5vw;
+    list-style: none;
+    margin:2rem;
+ }
+
+img{
+   height: 100%;
+   width: 100%;
+}
+
+.photo {
+    margin-top:10rem;
+} 
+
+span{
+    position: absolute;
+    font-size: 10px;
+    writing-mode: vertical-rl;
+    line-height: 200%;
+}
+
+.P{
+    text-align: start;
+    line-height: 200%;
+    font-weight: 700;
+  }
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: #312a30;
+  }
+
+
+
+
+@media only screen and (max-width: 600px){
+
+
+h1{
+    position: absolute;
+    top: 0;
+    bottom: 2rem;
+    left: 2rem;
+    padding:1rem;
+}
+
+.text{
+    margin-right: 12rem;
+    padding:1rem;
+}
+
+}
+
+    

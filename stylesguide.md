@@ -1,4 +1,3 @@
-# my-team-page
 
   <h3>
     <a href="https://{your-demo-link.your-domain}">
