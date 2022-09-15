@@ -93,6 +93,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website https://gamajr-myteampage.netlify.app/
 - GitHub [@gamajunior6](https://github.com/Gamajunior6})
 - Twitter [@gamajunior6](https://{twitter.com/gamajunior6})
