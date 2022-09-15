@@ -1,11 +1,11 @@
 # my-team-page
 
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-team-page-pi-dun.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Gamajunior6/my-team-page">
       Solution
     </a>
     <span> | </span>
@@ -26,13 +26,13 @@
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
-
 ## Overview
 
+![screencapture-127-0-0-1-5500-2022-09-15-08_29_30](https://user-images.githubusercontent.com/89595458/190354127-11d20aef-9eef-4b7f-9960-52d53f155054.png)
 
 It wasn't a tough project, but making a decision on what type of tag to use was tough. Initially i started  up the project using div to divide both image and it works but the problem was i felt it wasn't the right syntax, and the name was not aligning on to the image so i change it. Here is a demo of the code:
 
- - [ 
+ -  
     <!--<div class="Photos">
     <div class="Album_1">
         <img src="/images/photo1.png" alt="photo1">
@@ -56,7 +56,7 @@ It wasn't a tough project, but making a decision on what type of tag to use was 
          <span>DEVELOPER</span>
         <p class="p">Star John</p>
       </div>
-    </div>-->]
+    </div>-->
 
 
 - [Where can I see your demo?]
@@ -74,9 +74,7 @@ To keep learning and improving and also using different syntax when the need arr
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Vs Code](https://r.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Vs Code](https://code.visualstudio.com/)
 
 ## Features
 
@@ -96,5 +94,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@gamajunior6](https://{github.com/your-usermame})
-- Twitter [@gamajunior6](https://{twitter.com/your-username})
+- GitHub [@gamajunior6](https://github.com/Gamajunior6})
+- Twitter [@gamajunior6](https://{twitter.com/gamajunior6})
