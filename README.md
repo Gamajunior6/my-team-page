@@ -9,7 +9,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="(https://devchallenges.io/solutions/EDJ1eMUyeGmxeVg0TGSJ)">
+    <a href="(https://devchallenges.io/solutions/EDJ1eMUyeGmxeVg0TGSJ)" >
       Challenge
     </a>
   </h3>
